@@ -1,0 +1,153 @@
+body {
+	font-family: 'Poppins', sans-serif;
+	margin: 0px;
+}
+
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+#slider {
+	width: 100%;
+	height: 600px;
+	background: url("album/donation.jpg") no-repeat center;
+	background-size: cover;
+}
+
+.learn {
+	font-size: 60px;
+	padding-top: 162px;
+	color: green;
+	font-weight: bold;
+}
+
+.box {
+	text-align: center;
+	font-size: 20px;
+
+}
+
+.btn {
+	text-decoration: none;
+	padding: 10px 40px;
+	background-image: linear-gradient(orange, tomato);
+	color: white;
+	border-radius: 5px;
+	font-weight: bold;
+	margin-top: 2%;
+	cursor: pointer;
+}
+
+
+
+
+
+.donate {
+	text-align: center;
+	padding: 20px;
+	padding-top: 90px;
+	padding-bottom: 20px;
+}
+
+.battan {
+	text-align: center;
+}
+
+.amount {
+	padding: 10px 10px;
+}
+
+.donate-sec {
+	width: 100%;
+	text-align: center;
+}
+
+#input-your-m {
+	color: #8080806b;
+	padding: 10px 30px;
+	margin-top: 42px;
+	margin-bottom: 10px;
+}
+
+
+
+
+.our-donate-plane {
+	text-align: center;
+	margin-top: 130px;
+}
+
+.food {
+	border: 2px solid red;
+	width: 35%;
+	height: 200px;
+	background-color: #edf5f6;
+	margin: 8px;
+	padding: 15px;
+}
+
+#fod-sec {
+	display: flex;
+	margin-top: 50px;
+	text-align: left;
+}
+
+.heading {
+	padding: 4px 0px;
+}
+
+#edu {
+	background-color: #fff4d6;
+}
+
+#shelter {
+	background-color: #ffeeee;
+}
+
+
+
+
+
+
+.updates {
+	text-align: center;
+	margin-top: 100px;
+}
+
+.suscribe {
+	width: 45%;
+	background-color: aqua;
+	height: 102px;
+	margin-top: 50px;
+	padding-top: 80px;
+	margin: 0 auto;
+}
+
+.input-p {
+	padding: 10px 20px;
+	margin-left: 20%
+}
+
+#input-p {
+	padding: 10px 20px;
+	background-color: #ff5959;
+	border-radius: 10px;
+}
+
+#d {
+	border-radius: 10px;
+}
+
+.footer {
+	text-align: center;
+	height: 100px;
+	margin-top: 50px;
+	background-color: black;
+	color: red;
+	padding: 20px;
+}
+
+.footer p {
+	color: white;
+}
