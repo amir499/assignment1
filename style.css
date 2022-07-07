@@ -23,6 +23,7 @@ p {
 	height: 600px;
 	background: url("album/donation.jpg") no-repeat center;
 	background-size: cover;
+	background-color: purple;
 }
 
 .learn {
@@ -94,6 +95,8 @@ p {
 	padding: 15px;
 }
 
+
+
 #icon {
 	font-size: 30px;
 }
@@ -163,4 +166,9 @@ p {
 
 .footer p {
 	color: white;
+}
+
+.be {
+	font-family: 'Brush Script MT', cursive;
+	font-weight: bold;
 }
